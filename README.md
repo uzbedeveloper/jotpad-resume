@@ -2,7 +2,7 @@
 
 **JotPad** is a clean, modern note-taking application for Android built with a focus on simplicity and professional architecture. It allows users to organize their thoughts into categories and manage their tasks with a seamless mobile experience.
 
-📲 **[Download Latest APK](https://github.com/uzbedeveloper/jotpad-resume/raw/main/app-debug.apk)**
+📲 **[Download Latest APK](https://github.com/uzbedeveloper/jotpad-resume/releases/download/first/app-debug.apk)**
 
 ---
 
