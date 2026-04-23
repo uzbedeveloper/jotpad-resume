@@ -10,9 +10,8 @@
 
 | | | | |
 |---|---|---|---|
-| ![Screen 1](https://github.com/uzbedeveloper/jotpad-resume/images_jotpad/1.jpg) | ![Screen 2](https://github.com/uzbedeveloper/jotpad-resume/images_jotpad/2.jpg) | ![Screen 3](https://github.com/uzbedeveloper/jotpad-resume/images_jotpad/3.jpg) | ![Screen 4](https://github.com/uzbedeveloper/jotpad-resume/images_jotpad/4.jpg) |
-| ![Screen 5](https://github.com/uzbedeveloper/jotpad-resume/images_jotpad/5.jpg) | ![Screen 6](https://github.com/uzbedeveloper/jotpad-resume/images_jotpad/6.jpg) | ![Screen 7](https://github.com/uzbedeveloper/jotpad-resume/images_jotpad/7.jpg) | ![Screen 8](https://github.com/uzbedeveloper/jotpad-resume/images_jotpad/8.jpg) |
-
+| ![Screen 1](https://github.com/uzbedeveloper/jotpad-resume/blob/main/images_jotpad/1.jpg) | ![Screen 2](https://github.com/uzbedeveloper/jotpad-resume/blob/main/images_jotpad/2.jpg) | ![Screen 3](https://github.com/uzbedeveloper/jotpad-resume/blob/main/images_jotpad/3.jpg) | ![Screen 4](https://github.com/uzbedeveloper/jotpad-resume/blob/main/images_jotpad/4.jpg) |
+| ![Screen 5](https://github.com/uzbedeveloper/jotpad-resume/blob/main/images_jotpad/5.jpg) | ![Screen 6](https://github.com/uzbedeveloper/jotpad-resume/blob/main/images_jotpad/6.jpg) | ![Screen 7](https://github.com/uzbedeveloper/jotpad-resume/blob/main/images_jotpad/7.jpg) | ![Screen 8](https://github.com/uzbedeveloper/jotpad-resume/blob/main/images_jotpad/8.jpg) |
 ---
 
 ### 🔍 About
